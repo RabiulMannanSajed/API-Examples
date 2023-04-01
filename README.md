@@ -10,9 +10,9 @@ so use:
        .then(data => console.log(data))
 
 <b>https://randomuser.me/api/?results=5</b> </br>
-this API is little bit different cause 
+this API is little bit different cause </br>
 { result : this an object and name (result) </br>
-     [ this is an array </br>
+   </tb>  [ this is an array </br>
          {1} 1,2 is object in an array  </br>
          {2}</br>
      ]</br>
