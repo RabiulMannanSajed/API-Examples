@@ -17,6 +17,7 @@ const displayCountries = (countries) => {
     //     console.log(country.name.common);
     // }
     // using foreach and error function
+
     countries.forEach(country => {
         // console.log(country);
         const div = document.createElement('div');
