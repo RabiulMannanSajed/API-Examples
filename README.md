@@ -17,3 +17,6 @@ this API is little bit different cause
          {2}
      ]
 }
+First fetch the data now show the data use for of or can foreach loop  
+then observe the data and shoe api as I done in 
+   <a href="https://github.com/RabiulMannanSajed/API-Examples/blob/main/js/buddy.js">buddy.js</a>
