@@ -12,7 +12,7 @@ so use:
 <b>https://randomuser.me/api/?results=5</b> </br>
 this API is little bit different cause </br>
 { result : this an object and name (result) </br>
-   </tb>  [ this is an array </br>
+   </t>  [ this is an array </br>
          {1} 1,2 is object in an array  </br>
          {2}</br>
      ]</br>
